@@ -1,6 +1,7 @@
 langchain==0.1.17
 langchain-chroma==0.1.0
 langchain-community==0.0.37
+langchain-pinecone==0.0.3
 sentence-transformers==2.2.2
 ctransformers==0.2.5
 bs4==0.0.2
